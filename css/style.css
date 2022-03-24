@@ -526,7 +526,7 @@ body.dark .loader_line:after{
 	border-radius: 100%;
 	position: relative;
 }
-.know_tm_video .circle:before{
+/* .know_tm_video .circle:before{
 	position: absolute;
 	content: "";
     display: inline-block;
@@ -538,14 +538,14 @@ body.dark .loader_line:after{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	margin-left: 3px;
+	margin-left: 3px; */
 }
 .know_tm_video .play{
 	font-size: 24px;
 	font-weight: 700;
 	padding-left: 28px;
 }
-.know_tm_video .circle:after{
+/* .know_tm_video .circle:after{
 	position: absolute;
 	content: "";
 	top: 1px;
@@ -561,7 +561,7 @@ body.dark .loader_line:after{
 	    -ms-transition: all .3s ease;
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
-}
+} */
 .know_tm_video:hover .circle:after{
 	top: -9px;
 	bottom: -9px;
